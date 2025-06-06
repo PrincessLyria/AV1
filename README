@@ -10,7 +10,7 @@ Clone the repository or pull updates to access the latest images. Designed to wo
 
 ## Structure
 - `/images` directory contains all animated AVIF files.
-- Naming conventions follow [your choice], e.g., `animation1.avif`.
+- No strict naming convention is enforced; filenames reflect the content or creator's intent.
 
 ## Notes
 - AVIF format ensures high compression with quality.
