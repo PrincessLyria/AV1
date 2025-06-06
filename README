@@ -1,6 +1,6 @@
 # AV1 Animated AVIF Images Repository
 
-This repository hosts animated AVIF images, each up to 100MB, optimized for caching and fast delivery. 
+This repository hosts animated AVIF images, each up to 25MB, optimized for caching and fast delivery. 
 
 ## Purpose
 To provide a centralized, efficient collection of AVIF animations for use in web projects.
