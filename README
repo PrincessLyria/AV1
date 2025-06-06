@@ -1,0 +1,18 @@
+# AV1 Animated AVIF Images Repository
+
+This repository hosts animated AVIF images, each up to 100MB, optimized for caching and fast delivery. 
+
+## Purpose
+To provide a centralized, efficient collection of AVIF animations for use in web projects.
+
+## Usage
+Clone the repository or pull updates to access the latest images. Designed to work seamlessly with caching strategies for improved performance.
+
+## Structure
+- `/images` directory contains all animated AVIF files.
+- Naming conventions follow [your choice], e.g., `animation1.avif`.
+
+## Notes
+- AVIF format ensures high compression with quality.
+- Ideal for projects seeking modern, efficient animated visuals.
+
