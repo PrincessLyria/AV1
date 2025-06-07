@@ -14,6 +14,6 @@ Clone the repository or pull updates to access the latest images. Designed to wo
 
 ## Notes
 - AVIF format ensures high compression with quality.
-- Does not work well with chromium-based browsers, animations are choppy.
+- AVIF does'nt look good on chromium-based browsers, animations are choppy.
 - Firefox browser is currently optimum for decoding quality. Outstanding! 
 - Ideal for projects seeking modern, efficient animated visuals.
